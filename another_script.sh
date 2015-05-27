@@ -1,3 +1,4 @@
+#this is a new addition
 #this script makes a new file on the 5th iteration
 #I am adding a new comment lol
 for i in {1..100000};
